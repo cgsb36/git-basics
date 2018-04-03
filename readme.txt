@@ -1,1 +1,3 @@
-Git Basics I am learning the basics of git.
+Git Basics 
+
+I am learning the basics of git.
